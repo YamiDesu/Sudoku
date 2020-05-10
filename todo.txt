@@ -1,0 +1,13 @@
+(X) Zufälliges Sudoku Feld erzeugen
+(X) Sudoku-Feld auf richtigkeit prüfen
+( ) Prüfung des Sudoku-Feldes auf Anforderung ergänzen 
+( ) Nicht jedes Sudoku-Feld automatisch printen
+( ) Ausgabe anschaulich machen / anpassen
+( ) Zahlen zufällig entfernen
+( ) Schwierigkeitsgrad einführen
+( ) Möglichkeit ergänzen, zahlen zu merken
+( ) Ausgabe für falsche / richtige Prüfung
+( ) Ausgabe für einen Sieg
+( ) Ein GUI erzeugen
+
+( ) C# Version anfertigen
